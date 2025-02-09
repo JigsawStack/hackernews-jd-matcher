@@ -24,7 +24,7 @@ We've found amazing candidates who will be joining us at JigsawStack and it's sa
 - All config is in `config` folder in the root. You can replace the `JD.md` with your own JD in markdown format.
 - Run the script with `bun run index.ts`
 
-You can view the an example of how results like [here](/example_data/results.json)
+You can view the example of how results look like [here](/example_data/results.json)
 
 ## Config
 
@@ -67,7 +67,7 @@ You can edit the `email.md` file to change the email content and the `email` obj
 
 ## Future
 
-This is an example of how we used JigsawStack to help with hiring. This script can be transformed to work for other forum like job portals, like reddit. You could even reverse it to find job opportunities in [Who is hiring?](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN:%20Who%20is%20hiring&sort=byDate&type=ask_hn)
+This is an example of how we used JigsawStack to help with hiring. This script can be transformed to work for other forums like job portals, like reddit. You could even reverse it to find job opportunities in [Who is hiring?](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN:%20Who%20is%20hiring&sort=byDate&type=ask_hn)
 
 ## Hiring
 
