@@ -1,0 +1,21 @@
+{
+  "name": "hackernews-jd-matcher",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "start": "bun run index.ts",
+    "clean_data": "rm -rf data/*",
+    "format": "biome check --write ."
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "jigsawstack": "^0.0.25",
+    "marked": "^15.0.6",
+    "resend": "^4.1.2"
+  }
+}

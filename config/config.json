@@ -1,0 +1,12 @@
+{
+  "promptKey": "post_description",
+  "hnWhoWantsToBeHiredURL": "https://news.ycombinator.com/item?id=42919500",
+  "jd_file_name": "config/JD.md",
+  "min_rating": 8,
+  "email": {
+    "email_file_name": "config/email.md",
+    "from": "YourName <youremail@company.com>",
+    "subject": "Saw your post on HN for a new role",
+    "replyTo": "youremail@company.com"
+  }
+}
