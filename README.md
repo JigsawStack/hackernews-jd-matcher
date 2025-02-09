@@ -4,7 +4,7 @@ Every month, a new thread is created on HackerNews called [Who Wants to be Hired
 
 On average there are 600+ profiles posted every month, and it's a pain to go through them one by one.
 
-So we built a simple script tool that uses JigsawStack's AI scraper and Prompt Engine to automatically scrape the profiles, structure the data, fix it then automatically then finally score it by comparing it to our JD using AI. We email the top candidates for an interview :)
+So we wrote a script that uses JigsawStack's AI scraper and Prompt Engine to automatically scrape the profiles, structure the data, fix it then score it using AI by comparing it to our JD. We email the top candidates for an interview :)
 
 We've found amazing candidates who will be joining us at JigsawStack and it's saved us a lot of time!
 
