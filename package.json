@@ -1,6 +1,8 @@
 {
   "name": "hackernews-jd-matcher",
+  "description": "Automatically scrape and score profiles on Who Wants to be Hired Hacker News thread for your JD",
   "module": "index.ts",
+  "license": "Apache-2.0",
   "devDependencies": {
     "@types/bun": "latest"
   },
