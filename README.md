@@ -8,7 +8,7 @@ So we wrote a script that uses JigsawStack's AI scraper and Prompt Engine to aut
 
 We've found amazing candidates who will be joining us at JigsawStack and it's saved us a lot of time!
 
-> Note: This is not a full proof solution, it worked for our hiring process but might not for yours, use at your own risk!
+> Note: This is not a perfect solution, it worked for our hiring process but might not for yours, use at your own risk!
 
 ## Stack
 
@@ -67,7 +67,7 @@ You can edit the `email.md` file to change the email content and the `email` obj
 
 ## Future
 
-This is an example of how we used JigsawStack to solve help with hiring. This script can be transformed to work for other forum like job portals, like reddit. You could even reverse it to find job opportunities in [Who is hiring?](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN:%20Who%20is%20hiring&sort=byDate&type=ask_hn)
+This is an example of how we used JigsawStack to help with hiring. This script can be transformed to work for other forum like job portals, like reddit. You could even reverse it to find job opportunities in [Who is hiring?](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Ask%20HN:%20Who%20is%20hiring&sort=byDate&type=ask_hn)
 
 ## Hiring
 
