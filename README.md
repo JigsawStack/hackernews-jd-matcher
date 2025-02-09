@@ -24,6 +24,8 @@ We've found amazing candidates who will be joining us at JigsawStack and it's sa
 - All config is in `config` folder in the root. You can replace the `JD.md` with your own JD in markdown format.
 - Run the script with `bun run index.ts`
 
+You can view the an example of how results like [here](/example_data/results.json)
+
 ## Config
 
 ```json
